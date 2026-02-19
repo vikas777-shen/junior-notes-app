@@ -1,7 +1,8 @@
-src/main.jsx
-package.json
-vite.config.js
-index.html
-src/
-   main.jsx
-   App.jsx
+junior-notes-app
+│
+├── package.json
+├── vite.config.js
+├── index.html
+└── src
+    ├── main.jsx
+    └── App.jsx
